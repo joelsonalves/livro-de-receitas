@@ -10,4 +10,5 @@
 1. coloque tudo na panela.
 2. mexa bem.
 3. coloque no forno por 30 min.
+4. retire do forno com cuidado.
 
