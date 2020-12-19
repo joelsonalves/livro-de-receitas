@@ -1,12 +1,13 @@
-#Arroz Cozido
+# Arroz Cozido
 
-###Ingredientes
+### Ingredientes
 
 * 1 quilo de peito
 * arroz
 
-###Modo de Preparo
+### Modo de Preparo
 
 1. coloque tudo na panela.
 2. mexa bem.
 3. coloque no forno por 30 min.
+
